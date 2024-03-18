@@ -1,0 +1,7 @@
+## Interface: 11501
+## Title: Itemlvl
+## Author: Be1mont
+## Notes: Show item level on items that are not equipment.
+## Version: 1.0.0
+
+main.lua
